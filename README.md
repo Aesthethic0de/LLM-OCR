@@ -6,12 +6,12 @@ language model reads the document and returns labeled fields, line
 items, and a full text transcription, all reviewable and editable in a
 single-page workspace before you export.
 
-![Review screen](docs/screenshot-review.png)
+![Upload screen](docs/screenshot-upload.png)
 
 <details>
-<summary>Upload screen</summary>
+<summary>Review screen (after processing a document)</summary>
 
-![Upload screen](docs/screenshot-upload.png)
+![Review screen](docs/screenshot-review.png)
 
 </details>
 
