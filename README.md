@@ -8,12 +8,7 @@ single-page workspace before you export.
 
 ![Upload screen](docs/screenshot-upload.png)
 
-<details>
-<summary>Review screen (after processing a document)</summary>
-
 ![Review screen](docs/screenshot-review.png)
-
-</details>
 
 ## How it works
 
